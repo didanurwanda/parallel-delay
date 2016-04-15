@@ -1,0 +1,26 @@
+{
+  "name": "parallel-delay",
+  "description": "Run many function in sequential timeout",
+  "main": "delay.js",
+  "authors": [
+    "Dida Nurwanda"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "parallel-js",
+    "function",
+    "sequential",
+    "javascript",
+    "nodejs",
+    "requirejs"
+  ],
+  "homepage": "https://github.com/didanurwanda/parallel-delay",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
